@@ -12,4 +12,4 @@ My name is Kasun Gamlath. I’m a Srilankan student reading for B.Sc(Computer Sc
 
 ### Contact me
 
-[email@domain.com](mailto:kasun.gamlath.x@gmail.com)
+[kasun.gamlath.x@gmail.com](mailto:kasun.gamlath.x@gmail.com)
