@@ -19,14 +19,14 @@ avatar: https://avatars2.githubusercontent.com/u/5629261?v=3&s=140
 footer-links:
   dribbble:
   email: kasun.gamlath.x@gmail.com
-  facebook:
+  facebook: https://www.facebook.com/kpgxyz
   flickr:
   github: github.com/kpgx/
   instagram:
-  linkedin:
+  linkedin: http://lk.linkedin.com/in/kasungamlath
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: kpgxyz
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
