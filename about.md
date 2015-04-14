@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fourth year undergraduate at University of Colombo School of Computing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Kasun Gamlath. I’m a Srilankan student reading for B.Sc(Computer Science), who have worked with a number of different technologies, including android, python, java, PHP, etc. More information can be found through LinkedIn. Also I love traveling..
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:kasun.gamlath.x@gmail.com)
