@@ -9,10 +9,9 @@ Link to the testing community of the app (you are welcome to join) : [http://goo
 
 Link to the app (only available for members of the above  community. will be available for all once the app passed the testing phase) : [http://goo.gl/pzyJP6](http://goo.gl/pzyJP6)
 
-<<<<<<< HEAD
-[<img src="{{ site.baseurl }}/assets/trainbuddy-playstore.png" alt="Constructocat by https://github.com/jasoncostello" style="width: 300px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/assets/trainbuddy-playstore.png" alt="Train Buddy in Google Play Store" style="width: 300px;"/>](http://goo.gl/VX6BLe)
 
 {% include addthis.html %}
-=======
-[<img src="{{ site.baseurl }}/assets/trainbuddy-playstore.png" alt="Train Buddy in Google Play Store" style="width: 300px;"/>](http://goo.gl/VX6BLe)
->>>>>>> ac82fe450a36b65d16b93e3401558b585ec95919
+
+
+
