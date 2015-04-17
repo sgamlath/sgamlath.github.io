@@ -9,7 +9,6 @@ Link to the testing community of the app (you are welcome to join) : [http://goo
 
 Link to the app (only available for members of the above  community. will be available for all once the app passed the testing phase) : [http://goo.gl/pzyJP6](http://goo.gl/pzyJP6)
 
-[<img src="{{ site.baseurl }}/assets/trainbuddy-playstore.png" alt="Train Buddy in Google Play Store" style="width: 300px;"/>](http://goo.gl/VX6BLe)
 
-
+<div align="center"><img src="{{ site.baseurl }}/assets/trainbuddy-playstore.png" style="width: 300px;"></div>
 
