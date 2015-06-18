@@ -9,4 +9,4 @@ After 2 whole months Train Buddy now have 100 total installs. I know it's not mu
 
 But the most important thing is now the app has completed the goal for it's 2nd iteration. Which will enable viewing the stasus of trains when you are "not onboard". With the vacation comming up in next month, I think this could be completed before the end of this july (if my research work allows me, fingers crossed). As usual beta testers will get the new version first. So if you are not joined yet join [this community](https://plus.google.com/communities/111728508620143036732), download [the application](https://play.google.com/store/apps/details?id=com.kasungamlath.trainbuddy) and be ready to have the train stasus at your fingertips anytime you want (hopefully).
 
-ps :You can request features, post suggestions and give feedback through this community page too.
+ps :You can request features, post suggestions and give feedback through [the community page](https://plus.google.com/communities/111728508620143036732) too.
