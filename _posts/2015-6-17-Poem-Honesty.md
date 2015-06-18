@@ -3,47 +3,47 @@ layout: post
 title: Poem :honesty.
 ---
 
-Be honest
-be true
-they say
-but do
+Be honest</br>
+be true</br>
+they say</br>
+but do</br>
 
-lying is bad
-they say
-but why
-they always
+lying is bad</br>
+they say</br>
+but why</br>
+they always</br>
 
-honest is best
-honesty brings peace
-so they say
-then why war?
+honest is best</br>
+honesty brings peace</br>
+so they say</br>
+then why war?</br>
 
-honesty is pure
-Honesty is clear
-honesty is just
-honesty is must
+honesty is pure</br>
+Honesty is clear</br>
+honesty is just</br>
+honesty is must</br>
 
-jesus never lied
-buddha never lied
-allah never lied
-so why you?
+jesus never lied</br>
+buddha never lied</br>
+allah never lied</br>
+so why you?</br>
 
-who cut this tree
-I do
-good son
-appreciate your honesty
+who cut this tree</br>
+I do</br>
+good son</br>
+appreciate your honesty</br>
 
-why hide
-why conceal
-why fake
-what's the point
+why hide</br>
+why conceal</br>
+why fake</br>
+what's the point</br>
 
-you may success
-lying everyone
-but deep inside
-you'll always know
+you may success</br>
+lying everyone</br>
+but deep inside</br>
+you'll always know</br>
 
-be honest
-be good
-be true
-you'll do
+be honest</br>
+be good</br>
+be true</br>
+you'll do</br>
