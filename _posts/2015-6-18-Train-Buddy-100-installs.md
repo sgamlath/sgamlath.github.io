@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Train Buddy 100 installs.
+title: Train Buddy passes 100 installs.
 ---
 
-After 2 whole months Train Buddy now have 100 total installs. I know it's not much. But it's just another app in train schedule category with a sexy UI (atleast I think so). So thank you each and every one who installs this application. Train Buddy never went viral. just few installs per day. But the growth was steady. The most used app in this category has around 100,000 installations. But it's backed by ICTA and kind of the "official" app. 2nd most popular app has about 10,000 intallations. So the good new is only 16 more years to catchup with that in this rate of installations.
+After 2 months since public release Train Buddy now have more than 100 total installs. I know it's not much. But it's just another app in train schedule category with a sexy UI (atleast I think so). So thank you each and every one who installs this application. Train Buddy never went viral. just few installs per day. But the growth was steady. The most used app in this category has around 100,000 installations. But it's backed by ICTA and kind of the "official" app. 2nd most popular app has about 10,000 intallations. So the good new is only 16 more years to catchup with that in this rate of installations.
 
 <div align="center"><img src="{{ site.baseurl }}/assets/train-buddy-100.png"></div>
 
