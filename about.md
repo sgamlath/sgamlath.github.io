@@ -8,9 +8,9 @@ Undergraduate
 
 ### More Information
 
-I build apps <sup>[1],[2]</sup> I find usefull. Almost always for humans. Currently I'm reading for B.Sc(Computer Science) in University of Colombo School of Computing. Most recently I completed an internship at virtusa VRTU (NASDAQ) and now in the fourth and final year of my degree.
+I build apps [1],[2] I find usefull. Almost always for humans. Currently I'm reading for B.Sc(Computer Science) in University of Colombo School of Computing. Most recently I completed an internship at virtusa VRTU (NASDAQ) and now in the fourth and final year of my degree.
 
-[1] <a href="https://play.google.com/store/apps/details?id=com.kasungamlath.trainbuddy" target="_blank">Train Buddy</a>
+[1] <a href="https://play.google.com/store/apps/details?id=com.kasungamlath.trainbuddy" target="_blank">Train Buddy</a></br>
 [2] <a href="http://ytd.kasungamlath.com/" target="_blank">Youtube-dl Web</a>
 
 ### Contact me
