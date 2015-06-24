@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Train Buddy passes 100 installs.
+title: Train Buddy v1 passes 100 installs.
 ---
 
 After 2 months since public release Train Buddy now have more than 100 total installs. I know it's not much. But it's just another app (yet), to view train schedule in sri lanka with a sexier UI (atleast I think so). So thank you, each and every one who installed the train buddy.
