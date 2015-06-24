@@ -15,6 +15,6 @@ But the most important thing is now the app has completed the goal for it's 2nd 
 
 Here's to the v2
 
-<div align="center" style="width: 700px;"><img src="{{ site.baseurl }}/assets/cheers.gif"></div>
+<div align="center" ><img src="{{ site.baseurl }}/assets/cheers.gif" style="width: 700px;"></div>
 
 ps :You can request features, post suggestions and give feedback through [the community page](https://plus.google.com/communities/111728508620143036732) too.
