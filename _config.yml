@@ -1,74 +1,55 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site settings
+title:       Kasun Gamlath
+email:       kasun.gamlath.x@gmail.com
+author:      Kasun Gamlath
+description: "Undergraduate."
+baseurl:     ""
+url:         "https://kasungamlath.com"
 
-# Name of your site (displayed in the header)
-name: Kasun Gamlath
-
-# Short bio or description (displayed in the header)
-description: Undergraduate
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/5629261?v=3&s=140
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: kasun.gamlath.x@gmail.com
-  facebook: kpgxyz
-  flickr:
-  github: kpgx
-  instagram:
-  linkedin: kasungamlath
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: kasungamlath
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: kasungamlathswebsite
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Google analytics
 google_analytics: UA-50840575-2
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://www.kasungamlath.com/
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  false
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: kasungamlathswebsite
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Social icons
+show_social_icons: true
+github_username: kpgx
+stackoverflow_id:
+twitter_username: kasungamlath
+google_plus_id:
+linkedin_username: kasungamlath
+facebook_username: kpgxyz
+angellist_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
-markdown: redcarpet
-highlighter: pygments
-permalink: /:title/
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
+share_digg: true
+share_tumblr: true
+share_reddit: true
+share_stumbleupon: true
+share_hackernews: true
 
-# The release of Jekyll Now that you're using
-version: v1.1.0
-
-# Set the Sass partials directory, as we're using @imports
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
 sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+  compressed: true

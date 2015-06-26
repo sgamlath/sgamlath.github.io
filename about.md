@@ -17,6 +17,3 @@ I build apps [1],[2],[3] I find usefull. Almost always for humans. Currently I'm
 ### Contact me
 
 [kasun.gamlath.x@gmail.com](mailto:kasun.gamlath.x@gmail.com)
-
-
-
