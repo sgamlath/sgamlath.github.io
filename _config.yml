@@ -49,7 +49,7 @@ share_hackernews: true
 markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink: /:title
+permalink: /:title/
 paginate:     3
 sass:
   compressed: true
