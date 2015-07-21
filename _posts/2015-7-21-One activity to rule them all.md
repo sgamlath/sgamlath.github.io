@@ -9,4 +9,4 @@ While this structure has it's own perks there are some problems too. Like all th
 
 So as you can see the bad out weights the good in my post. Mainly because I'm using it currently. People tend to see bad things of things they have and good things in things they haven't. The effect of green grass. So the bottom line here in my opinion, this structure is great if your application is simple but not so great when it grows.
 
-<div align="center"><img src="{{ site.baseurl }}/assets/one_ring.jpg" style="width: 400px;"></div>
+<div align="center"><img src="{{ site.baseurl }}/assets/one_ring.jpg" style="width: 700px;"></div>
