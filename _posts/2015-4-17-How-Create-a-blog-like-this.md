@@ -3,7 +3,7 @@ layout: post
 title: How to create and host a simple, blog-aware, static site (like this).
 ---
 
-Proccess requires a github account (which you can have for free) and about 30 mins of free time. This is made possible by FOSS tool called [jekyll](http://jekyllrb.com/).
+Process requires a github account (which you can have for free) and about 30 mins of free time. This is made possible by FOSS tool called [jekyll](http://jekyllrb.com/).
 
 1. Sign up for free github account (if you haven't already).
 
@@ -38,8 +38,3 @@ This is the [link](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-
 
 
 [Github](https://github.com/)
-
-
-
-
-
