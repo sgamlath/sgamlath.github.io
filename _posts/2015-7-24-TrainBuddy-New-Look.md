@@ -19,7 +19,7 @@ The previous way of navigating (using the spinner) was kind of looked out of pla
 
 With the navigational view following the google design guidelines now the input providing view looked alien. I tried adding few icons. But it didn't jell. So ended up changing the typography. And the new swap button has a icon now.
 
-<div align="center"><img src="{{ site.baseurl }}/assets/trainBuddy_new_look/user_in_old.webp" style="width: 300px;"> -> <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/user_in_new.png" style="width: 300px;"></div></br>
+<div align="center"><img src="{{ site.baseurl }}/assets/trainBuddy_new_look/user_in_old.webp" style="width: 300px;">  <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/user_in_new.png" style="width: 300px;"></div></br>
 
 3.Result view layout and emission of journey detail view.(RIP detail view)
 
@@ -27,7 +27,7 @@ Here in list items I tried to get the look and feel of google inbox application.
 
 Another notable thing here is the view at the top of the window. Though it looks like the action bar it isn't. It's a linear layout with a navigation button. It's because I couldn't find a way to change the action bar layout for only one fragment. I was trying to add a collapsing toolbar here. But couldn't find a way without changing the application architecture. I think the reason is the one activity architecture as I explained in previous post.
 
-<div align="center"><img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_list_old.webp" style="width: 200px;"> + <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_detail_old.webp" style="width: 200px;"> -> <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_list_new.png" style="width: 200px;"></div></br>
+<div align="center"><img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_list_old.webp" style="width: 200px;">   <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_detail_old.webp" style="width: 200px;">  <img src="{{ site.baseurl }}/assets/trainBuddy_new_look/result_list_new.png" style="width: 200px;"></div></br>
 
 4.Addition of help & feedback view.
 
