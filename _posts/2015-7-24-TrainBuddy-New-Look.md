@@ -43,4 +43,4 @@ If you haven't try TrainBuddy yet get it from the [Google play](https://play.goo
 
 Happy commuting !!!
 
-UPDATE(28 July 2015) :Now available for all users.
+UPDATE(28 July 2015) :Now available for all the users.
