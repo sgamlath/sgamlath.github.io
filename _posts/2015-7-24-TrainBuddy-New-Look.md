@@ -42,3 +42,5 @@ All these changes are available for beta users now. If you are not a beta user y
 If you haven't try TrainBuddy yet get it from the [Google play](https://play.google.com/store/apps/details?id=com.kasungamlath.trainbuddy)
 
 Happy commuting !!!
+
+UPDATE(28 July 2015) :Now available for all users.
