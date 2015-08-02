@@ -15,6 +15,10 @@ The offline cache will updated once a week. To do this it checks the date of the
 
 Thanks for reading.
 
+tl;dr
+
+Train Buddy beta now works even in offline mode.
+
 [Beta version on Google Play](https://play.google.com/apps/testing/com.kasungamlath.trainbuddy)
 
 [Stable version on Google Play](https://play.google.com/store/apps/details?id=com.kasungamlath.trainbuddy)

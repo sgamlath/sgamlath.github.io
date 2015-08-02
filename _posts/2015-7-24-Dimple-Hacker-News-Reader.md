@@ -23,4 +23,12 @@ Here is the link to application in [Google play](https://play.google.com/store/a
 
 You can provide your valuable feedback in here or in [G+ page](https://plus.google.com/communities/118167818139031156233).
 
+tl;dr
+
+Dimple is a beautiful(yet incomplete) Hacker News client.
+
+[Beta version on Google Play](https://play.google.com/apps/testing/com.kasungamlath.hackernews)
+
+[Stable version on Google Play](https://play.google.com/store/apps/details?id=com.kasungamlath.hackernews)
+
 Happy Reading !!!
