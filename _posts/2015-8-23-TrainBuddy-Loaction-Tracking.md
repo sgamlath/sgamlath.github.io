@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Train Buddy Location Tracking.
+title: Train Buddy v2 (with Location Tracking).
 ---
 
 Just before the end of semester vacation I released a beta of train buddy with location tracking service. Once a user started it through the train map screen it'll access the location data of the device and will post them to the back-end once every predefined time interval.
@@ -13,6 +13,6 @@ Then there is also problem of getting locations when in middle of the train. Bec
 
 I'm hopping to release a production version once those kinks got sorted out. So guys you'll be able to stalk the trains in near future.
 
-Get the [Beta](https://play.google.com/apps/testing/com.kasungamlath.trainbuddy)
-
 I also added push notifications in the beta version. it will be used for emergency notifications which is still being implemented.
+
+Get the Beta from [Google Play]](https://play.google.com/apps/testing/com.kasungamlath.trainbuddy)
