@@ -17,6 +17,6 @@ I'm hopping to release a production version once those kinks got sorted out. So 
 
 I also added push notifications in the beta version. it will be used for emergency notifications which is still being implemented.
 
-Get the Beta from [Google Play]](https://play.google.com/apps/testing/com.kasungamlath.trainbuddy)
+Get the Beta from [Google Play](https://play.google.com/apps/testing/com.kasungamlath.trainbuddy)
 
 UPDATE :It seems OK with reporting multiple locations.
