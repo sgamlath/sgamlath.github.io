@@ -5,7 +5,7 @@ title: Train Buddy - TrainMap Beta.
 
 After being in alpha state for about a month Train Buddy v2 (with TrainMap) is moving to beta today.
 
-For those who didn't know what's the TrainMap is, your initial guess is correct. It's a map of trains (in Srilanka). The way it work is, it gets the status data from application users (only when they allow) in the train and share it with all the application users. Since the status (location/speed) of users in train being same with the status of the train, all the users now have a real-time map of trains.
+For those who didn't know what's the TrainMap is, your initial guess is correct. It's a map of trains (in Srilanka). The way it work is, it gets the status data from application users (only when they allow) in the train and share it with all other users (To share the status data the location and mobile data has to be turned on in the device). Since the status (location/speed) of users in train being same with the status of the train, all the users now have a real-time map of trains.
 
 There are few changes (since alpha) worth mentioning.
 
