@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>TrainMap</title>
+    <title>TrainMap(beta)</title>
     <meta name="theme-color" content="#2196F3">
     <meta name="viewport" content="width=device-width">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -36,6 +36,41 @@
     <script>
     var markers=[];
     var map;
+    function setDummyData(){
+      var DummyLocation = Parse.Object.extend("Location");
+      var query = new Parse.Query(DummyLocation);
+      var dummyLocation;
+      query.equalTo("userId", "dummy");
+      query.find({
+        success: function(results) {
+          console.log("total dummy locations "+results.length);
+          if (results.length>0) {
+            dummyLocation=results[0]
+          }else {
+            dummyLocation = new DummyLocation();
+            dummyLocation.set("userId", 'dummy');
+            var loc = new Parse.GeoPoint({latitude: 6.902250, longitude: 79.861314});
+            dummyLocation.set("trainName", "TS0");
+            dummyLocation.set("loc", loc);
+        }
+          dummyLocation.set("speed", Math.random()*20);
+          dummyLocation.save(null, {
+            success: function(dummyLocation) {
+              // Execute any logic that should take place after the object is saved.
+              // alert('New object created with objectId: ' + dummyLocation.id);
+            },
+            error: function(dummyLocation, error) {
+              // Execute any logic that should take place if the save fails.
+              // error is a Parse.Error with an error code and message.
+              // alert('Failed to create new object, with error code: ' + error.message);
+            }
+          });
+      },
+        error: function(error) {
+          console.log("Error: " + error.code + " " + error.message);
+        }
+      });
+    }
     function updateMap(){
       var Location = Parse.Object.extend("Location");
       var query = new Parse.Query(Location);
@@ -46,7 +81,7 @@
             var object = results[i];
             var userGeoPoint = object.get("loc");
             var infowindow = new google.maps.InfoWindow({
-              content: (object.get("trainName")).concat("/",object.get("speed"))
+              content: (object.get("trainName")).concat("/",Math.round(object.get("speed")*18/5))
             });
             var myMarker = new google.maps.Marker({
               position: new google.maps.LatLng(userGeoPoint._latitude, userGeoPoint._longitude),
@@ -57,6 +92,7 @@
             markers.push(myMarker)
           }
           setMapOnAll(map);
+          // setDummyData();
           setTimeout(updateMap, 5000);
         },
         error: function(error) {
@@ -94,7 +130,6 @@
       google.maps.event.addDomListener(window, 'load', initialize);
       updateMap();
     </script>
-
   </head>
   <body>
     <div id="map"></div>
