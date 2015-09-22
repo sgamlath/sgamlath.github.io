@@ -1,40 +1,6 @@
 var markers=[];
 var map;
-function setDummyData(){
-  var DummyLocation = Parse.Object.extend("Location");
-  var query = new Parse.Query(DummyLocation);
-  var dummyLocation;
-  query.equalTo("userId", "dummy");
-  query.find({
-    success: function(results) {
-      console.log("total dummy locations "+results.length);
-      if (results.length>0) {
-        dummyLocation=results[0]
-      }else {
-        dummyLocation = new DummyLocation();
-        dummyLocation.set("userId", 'dummy');
-        var loc = new Parse.GeoPoint({latitude: 6.902250, longitude: 79.861314});
-        dummyLocation.set("trainName", "TS0");
-        dummyLocation.set("loc", loc);
-    }
-      dummyLocation.set("speed", Math.random()*20);
-      dummyLocation.save(null, {
-        success: function(dummyLocation) {
-          // Execute any logic that should take place after the object is saved.
-          // alert('New object created with objectId: ' + dummyLocation.id);
-        },
-        error: function(dummyLocation, error) {
-          // Execute any logic that should take place if the save fails.
-          // error is a Parse.Error with an error code and message.
-          // alert('Failed to create new object, with error code: ' + error.message);
-        }
-      });
-  },
-    error: function(error) {
-      console.log("Error: " + error.code + " " + error.message);
-    }
-  });
-}
+
 function updateMap(){
   var Location = Parse.Object.extend("Location");
   var query = new Parse.Query(Location);
@@ -50,13 +16,11 @@ function updateMap(){
         var myMarker = new google.maps.Marker({
           position: new google.maps.LatLng(userGeoPoint._latitude, userGeoPoint._longitude),
           map: map,
-          // title : 'hello world'
         });
         infowindow.open(map, myMarker);
         markers.push(myMarker)
       }
       setMapOnAll(map);
-      // setDummyData();
       setTimeout(updateMap, 5000);
     },
     error: function(error) {
@@ -90,6 +54,6 @@ function deleteMarkers() {
     }
     map = new google.maps.Map(mapCanvas, mapOptions);
   }
-  // Parse.initialize("lGi3e36YTg0ujCeSwqggXMmCqOvjQIwEWXwruYwT", "SDWSoOnXvwSqMZqRKjp5OLJXUEa9cs6JTI8moDGE");
+  Parse.initialize("lGi3e36YTg0ujCeSwqggXMmCqOvjQIwEWXwruYwT", "SDWSoOnXvwSqMZqRKjp5OLJXUEa9cs6JTI8moDGE");
   google.maps.event.addDomListener(window, 'load', initialize);
-  // updateMap();
+  updateMap();
