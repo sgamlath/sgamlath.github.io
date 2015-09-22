@@ -28,6 +28,6 @@ I would love to hear about your experience even it's terrible. You can give me y
 * this [community page](https://plus.google.com/communities/111728508620143036732) reserved for this application testers
 * or even through social media/email is fine.
 
-Update (17/9/2015):[Web client of TrainMap]({{ site.baseurl }}/trainmap.html/) is available now.
+Update (17/9/2015):[Web client of TrainMap]({{ site.baseurl }}/train-map/) is available now.
 
 Happy train stalking...
