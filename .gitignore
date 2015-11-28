@@ -1,6 +1,6 @@
 _site
 _trash
-_drafts
+_drafts/*
 .DS_Store
 .jekyll
 .bundle
