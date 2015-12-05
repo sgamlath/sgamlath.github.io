@@ -22,3 +22,6 @@ permalink: /quotes/
 * Frankly, I don't think you could have driven a needle up my sphincter using a sledgehammer.
 *-Col. Barry Horne, F-117 pilot, on first mission over Baghdad*
 
+* The key to performance is elegance, not battalions of special cases.
+*-McIlroy and Bentley*
+
