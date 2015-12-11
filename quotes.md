@@ -7,7 +7,7 @@ permalink: /quotes/
 * Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read. 
 *-Groucho Marx*
 
-* everybody got a plan till they hit in mouth 
+* Everybody got a plan till they hit in mouth.
 *-Mike Tyson*
 
 * You miss 100% of the shots you don't take. 
@@ -25,7 +25,7 @@ permalink: /quotes/
 * Do it to do it, not to have done it.
 *-redditor*
 
-* I rather live a life of 'oh wells' than 'what ifs'?
+* I rather live a life of 'oh well's than 'what if?' s.
 *-redditor*
 
 * People won't remember the words you say but how it made them feel.
