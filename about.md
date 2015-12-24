@@ -8,7 +8,7 @@ Undergraduate. Love trains, trees and dimples.
 
 ### More Information
 
-Reading for B.Sc (Computer Science) in University of Colombo School of Computing. Most recently completed an internship at virtusa VRTU (NASDAQ) and now in the fourth and final year of the degree.
+Reading for B.Sc (Computer Science) in University of Colombo School of Computing. Completed an internship at virtusa VRTU (NASDAQ) and now in the fourth and final year of the degree.
 
 ### Contact me
 
