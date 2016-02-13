@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Undergraduate. Love trains, trees and dimples.
+Software Engineer. Love trains, trees and dimples.
 
 ### More Information
 
-Reading for B.Sc (Computer Science) in University of Colombo School of Computing. Completed an internship at virtusa VRTU (NASDAQ) and now in the fourth and final year of the degree.
+Software Engineer @ MillenniumIT Software (Pvt) Ltd. Read for B.Sc (Computer Science) in University of Colombo School of Computing and currently waiting for the final exam results.
 
 ### Contact me
 
