@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: About Pixyll
 permalink: /about/
+tags: about
 ---
 
-Software Engineer. Love trains, trees and dimples.
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+([@4lpine](https://twitter.com/4lpine)).
 
-### More Information
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+request a feature, report a bug, or contribute. It's free, and open source
+([MIT](http://opensource.org/licenses/MIT)).
 
-Software Engineer @ MillenniumIT Software (Pvt) Ltd. Read for B.Sc (Computer Science) in University of Colombo School of Computing and currently waiting for the final exam results.
+Thanks to the following:
 
-### Contact me
-
-[kasun.gamlath.x@gmail.com](mailto:kasun.gamlath.x@gmail.com)
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Type Scale](http://type-scale.com/)
